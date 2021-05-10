@@ -1,0 +1,7 @@
+# Reader
+
+## Package
+```
+./gradlew build
+```
+

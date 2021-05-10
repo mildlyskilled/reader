@@ -1,0 +1,73 @@
+<configuration>
+    <appender name="LOGFILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOG_PATH}/mykobo-core-api.log</file>
+        <encoder>
+            <pattern>%date [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- rollover daily -->
+            <fileNamePattern>${LOG_PATH}/mykobo-core-api.%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxHistory>8</maxHistory>
+            <cleanHistoryOnStart>true</cleanHistoryOnStart>
+            <!-- or whenever the file size reaches 100MB -->
+            <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <maxFileSize>100MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+        </rollingPolicy>
+    </appender>
+    <appender name="ASYNC_LOGFILE" class="ch.qos.logback.classic.AsyncAppender">
+        <queueSize>500</queueSize>
+        <neverBlock>true</neverBlock>
+        <appender-ref ref="LOGFILE"/>
+    </appender>
+    <appender name="BLOCKCHAIN-FILE" class="ch.qos.logback.core.FileAppender">
+        <file>${LOG_PATH}/blockchain.log</file>
+        <encoder>
+            <pattern>%date [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- rollover daily -->
+            <fileNamePattern>${LOG_PATH}/blockchain.%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxHistory>8</maxHistory>
+            <cleanHistoryOnStart>true</cleanHistoryOnStart>
+            <!-- or whenever the file size reaches 100MB -->
+            <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <maxFileSize>100MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+        </rollingPolicy>
+    </appender>
+
+    <appender name="ANALYTICS-FILE" class="ch.qos.logback.core.FileAppender">
+        <file>${LOG_PATH}/analytics.log</file>
+        <encoder>
+            <pattern>%date [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- rollover daily -->
+            <fileNamePattern>${LOG_PATH}/analytics.%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxHistory>8</maxHistory>
+            <cleanHistoryOnStart>true</cleanHistoryOnStart>
+            <!-- or whenever the file size reaches 100MB -->
+            <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <maxFileSize>100MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+        </rollingPolicy>
+    </appender>
+
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{YYYY-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+    <root level="INFO">
+        <appender-ref ref="ASYNC_LOGFILE" />
+    </root>
+    <logger name="org.bitcoinj" level="INFO" additivity="false">
+        <appender-ref ref="BLOCKCHAIN-FILE"/>
+    </logger>
+    <logger level="DEBUG" additivity="false">
+        <appender-ref ref="ANALYTICS-FILE" />
+    </logger>
+    <logger name="org.eclipse.jetty" level="INFO"/>
+    <logger name="io.netty" level="INFO"/>
+</configuration>

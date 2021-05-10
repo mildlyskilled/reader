@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 09 May 2021 11:37:07 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Elections 2021: Sir Keir Starmer set to reshuffle Labour's top team]]></title>
+            <description><![CDATA[Party leader plans a major shake-up after losing elections to the Conservatives across England.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57047027</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57047027</guid>
+            <pubDate>Sun, 09 May 2021 09:31:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chinese rocket debris crashes into Indian Ocean - state media]]></title>
+            <description><![CDATA[Most of the Chinese Long March-5b rocket reportedly disintegrated as it re-entered the atmosphere.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57045058</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57045058</guid>
+            <pubDate>Sun, 09 May 2021 09:44:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rail disruption set to continue into next week after train cracks found]]></title>
+            <description><![CDATA[Two rail firms continue to warn passengers not to travel after cracks were found on some trains.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57042384</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57042384</guid>
+            <pubDate>Sun, 09 May 2021 09:51:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Election results 2021: PM calls Covid recovery summit after SNP victory]]></title>
+            <description><![CDATA[Boris Johnson tells leaders of the devolved nations people are "best served when we work together".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57043758</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57043758</guid>
+            <pubDate>Sun, 09 May 2021 11:17:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wales election 2021: Labour set to form new Welsh government alone]]></title>
+            <description><![CDATA[Election result allows them to work with parties on a "case-by-case basis", a minister says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57042797</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57042797</guid>
+            <pubDate>Sun, 09 May 2021 11:25:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jerusalem: Many injured on second night of clashes]]></title>
+            <description><![CDATA[Some 90 Palestinians and at least one Israeli police officer are hurt in a further night of violence.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57044000</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57044000</guid>
+            <pubDate>Sun, 09 May 2021 03:37:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kabul attack: Blasts near school leave more than 50 dead]]></title>
+            <description><![CDATA[Blasts near a Kabul school killed more than 50 people on Saturday, most of whom were girls.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57046527</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57046527</guid>
+            <pubDate>Sun, 09 May 2021 08:28:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Michael of Kent accused of selling Kremlin access]]></title>
+            <description><![CDATA[The Queen's cousin denies he has close ties to Vladimir Putin after an undercover investigation.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57042823</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57042823</guid>
+            <pubDate>Sun, 09 May 2021 04:17:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your pictures on the theme of 'outdoor art']]></title>
+            <description><![CDATA[A selection of striking images from our readers on this week's theme.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-57023047</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57023047</guid>
+            <pubDate>Sat, 08 May 2021 23:30:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Labour's 'civil war', and PM wants UK to 'unite']]></title>
+            <description><![CDATA[Fallout from the nationwide elections continues to feature prominently on the front pages]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-57043949</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57043949</guid>
+            <pubDate>Sun, 09 May 2021 04:38:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ian Cunningham: 'I'm 80 years old and still playing rugby']]></title>
+            <description><![CDATA[At 80 years old, Ian Cunningham is one of the oldest walking rugby players in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57013207</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57013207</guid>
+            <pubDate>Sat, 08 May 2021 23:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Olympics: 'The Taliban wouldn’t let me cycle because I’m a woman']]></title>
+            <description><![CDATA[Masomah had to flee the Taliban in Afghanistan because she wanted to ride her bike. Now she's part of a team nominated for a Nobel Peace Prize and hopes to compete in the Olympics.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57027349</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57027349</guid>
+            <pubDate>Sat, 08 May 2021 23:04:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I thought strokes only happened to elderly people']]></title>
+            <description><![CDATA[Three young stroke survivors share their stories to help raise awareness.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-56678966</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-56678966</guid>
+            <pubDate>Sun, 09 May 2021 01:17:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICYMI: Nine babies and a giant squid]]></title>
+            <description><![CDATA[A surprise delivery for a mum in Morocco and questionable spending in Japan - news you may have missed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-57035326</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57035326</guid>
+            <pubDate>Sun, 09 May 2021 06:54:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Son wins father's Bradford council seat after Covid death]]></title>
+            <description><![CDATA[Mohsin Hussain, 26, said he wanted to carry on his father's legacy.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-57043008</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57043008</guid>
+            <pubDate>Sat, 08 May 2021 19:10:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Our first day of freedom on American soil']]></title>
+            <description><![CDATA[Adrian Meza and his family from Nicaragua have just been released from detention by US border officials.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57022918</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57022918</guid>
+            <pubDate>Fri, 07 May 2021 23:18:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#MeToo Serbia: 'I thought I was the only one']]></title>
+            <description><![CDATA[Balkan women are sharing their sexual assault stories after Serbian actress Milena Radulovic went public with hers.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57011605</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57011605</guid>
+            <pubDate>Fri, 07 May 2021 23:12:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sophie Scholl: Student who resisted Hitler and inspires Germany]]></title>
+            <description><![CDATA[Germany marks the 100th anniversary of the birth of Sophie Scholl, who was killed defying the Nazis.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57008360</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57008360</guid>
+            <pubDate>Sun, 09 May 2021 00:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Junior doctors in India's Covid crisis: 'We've grown up really fast']]></title>
+            <description><![CDATA[Covid cases in Pankti's home state increased eight-fold in her first month as a medical intern.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-56993136</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56993136</guid>
+            <pubDate>Sat, 08 May 2021 23:17:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joe Ligon: America's 'longest juvenile lifer' on 68 years in prison]]></title>
+            <description><![CDATA[After waiting seven decades for freedom, Joe Ligon tells the BBC how he intends to spend the rest of his days.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57022924</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57022924</guid>
+            <pubDate>Sun, 09 May 2021 00:55:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Akala: Why we need more black, working class period drama]]></title>
+            <description><![CDATA[Akala speaks to Radio 1 Newsbeat about filling the gaps in historical fiction.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-56894080</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56894080</guid>
+            <pubDate>Sun, 09 May 2021 01:19:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 'smart and cheeky' Aboriginal boy teaching Australia a lesson]]></title>
+            <description><![CDATA[A film about an Aboriginal boy's experience of school shines a light on Australia's failure to give all children a fair start.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-56544429</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56544429</guid>
+            <pubDate>Fri, 07 May 2021 23:56:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The misinformation bubble threatening Brazil's indigenous people]]></title>
+            <description><![CDATA[Health workers report resistance because of fake content spread over WhatsApp.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-trending-56919424</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-trending-56919424</guid>
+            <pubDate>Sat, 08 May 2021 00:19:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spy row revs up Czech-Russian tensions]]></title>
+            <description><![CDATA[The Czechs and Russians, ex-communist bloc allies, are in a new diplomatic Cold War.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57008363</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57008363</guid>
+            <pubDate>Sat, 08 May 2021 00:46:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India's Covid crisis delivers a blow to brand Modi]]></title>
+            <description><![CDATA[Narendra Modi's carefully crafted image has taken a hit as India reels from a punishing Covid wave.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-56970569</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56970569</guid>
+            <pubDate>Sat, 08 May 2021 00:36:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Superb Alvarez stops Saunders to unify super-middleweight titles]]></title>
+            <description><![CDATA[Saul 'Canelo' Alvarez stops Billy Joe Saunders in the eighth round in Texas to unify the super-middleweight titles.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/57037558</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57037558</guid>
+            <pubDate>Sun, 09 May 2021 06:06:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘He never scored them in training’ - Aguero and Man City’s Panenka pain]]></title>
+            <description><![CDATA[Sergio Aguero misses a penalty after attempting a Panenka-style spot-kick during Manchester City's defeat by Chelsea.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57042769</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57042769</guid>
+            <pubDate>Sun, 09 May 2021 05:16:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2021 elections: What are the results in my area?]]></title>
+            <description><![CDATA[National elections in Scotland and Wales and local elections in England took place on 6 May 2021.]]></description>
+            <link>https://www.bbc.co.uk/news/56129210</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/56129210</guid>
+            <pubDate>Thu, 06 May 2021 21:06:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sir John Curtice: What the 2021 election results mean for the parties]]></title>
+            <description><![CDATA[Prof Sir John Curtice says the ruling parties appear to have done well in Thursday's bumper crop of elections.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57040175</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57040175</guid>
+            <pubDate>Sun, 09 May 2021 09:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish election 2021: Results in maps and charts]]></title>
+            <description><![CDATA[The picture across Scotland as the SNP win a fourth consecutive victory in the Scottish Parliament.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57028315</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57028315</guid>
+            <pubDate>Sun, 09 May 2021 11:29:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welsh election results 2021: What's the secret behind Labour's success?]]></title>
+            <description><![CDATA[Labour's fortunes in Wales seem a world away from its troubles in England, what's going on?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-57037388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-57037388</guid>
+            <pubDate>Sat, 08 May 2021 12:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elections results 2021: Andy Burnham re-elected as Greater Manchester mayor]]></title>
+            <description><![CDATA[The Greater Manchester Mayor is the bookmakers' favourite to become the next Labour leader.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-57037359</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57037359</guid>
+            <pubDate>Sat, 08 May 2021 16:28:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elections 2021: Labour insiders on Starmer, what went wrong and how to fix it]]></title>
+            <description><![CDATA[Sir Keir Starmer took charge of Labour a year ago and has faced his first challenge at the polls.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57024995</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57024995</guid>
+            <pubDate>Fri, 07 May 2021 13:42:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish election results: The story so far]]></title>
+            <description><![CDATA[The key results and moments from the first day of counting in the Holyrood election.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57033767</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57033767</guid>
+            <pubDate>Fri, 07 May 2021 21:55:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Election results 2021: When will we know who has won?]]></title>
+            <description><![CDATA[There could be a long wait for some results this year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56581106</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56581106</guid>
+            <pubDate>Sat, 08 May 2021 10:29:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elections 2021: How to follow the results on the BBC]]></title>
+            <description><![CDATA[Find out how to keep up to date with live election results on TV, radio, online and on social media.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56930132</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56930132</guid>
+            <pubDate>Fri, 30 Apr 2021 18:25:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to expect in Scottish election]]></title>
+            <description><![CDATA[Scots have cast their votes, but they will not be counted until Friday and Saturday - when will the outcome be known?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56972971</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56972971</guid>
+            <pubDate>Thu, 06 May 2021 21:01:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which countries are on the green list for foreign holidays?]]></title>
+            <description><![CDATA[A new "traffic light" system for travel classifies countries as green, amber or red.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Fri, 07 May 2021 18:49:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Sat, 08 May 2021 16:21:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 35 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Fri, 07 May 2021 17:23:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK holidays: When and where can I go.... and who with?]]></title>
+            <description><![CDATA[The rules on having a holiday in the UK have been relaxed - but restrictions remain.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52646738</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
+            <pubDate>Fri, 30 Apr 2021 11:24:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
+            <description><![CDATA[Northern Ireland is the latest part of the UK to lift some of the restrictions designed to stop the spread of Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Tue, 04 May 2021 16:14:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is a Covid passport and what are the plans for the NHS app?]]></title>
+            <description><![CDATA[The government is considering how people could prove they are unlikely to transmit Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55718553</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
+            <pubDate>Fri, 07 May 2021 18:37:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What are the social distancing rules and the rule of six?]]></title>
+            <description><![CDATA[Rules on hugging and social distancing in England are being reviewed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51506729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
+            <pubDate>Wed, 05 May 2021 09:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Should I be working from home or going back to the office?]]></title>
+            <description><![CDATA[As lockdown restrictions ease gradually across the UK, what are the rules about returning to work?]]></description>
+            <link>https://www.bbc.co.uk/news/business-52567567</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52567567</guid>
+            <pubDate>Wed, 05 May 2021 16:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What refund rights are there for holidays abroad?]]></title>
+            <description><![CDATA[Quarantine-free overseas holidays will be possible after 17 May, but what rights do you have if plans or rules change?]]></description>
+            <link>https://www.bbc.co.uk/news/business-51615412</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-51615412</guid>
+            <pubDate>Fri, 07 May 2021 17:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How do I get a lateral flow or PCR test?]]></title>
+            <description><![CDATA[Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51943612</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51943612</guid>
+            <pubDate>Thu, 29 Apr 2021 09:52:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

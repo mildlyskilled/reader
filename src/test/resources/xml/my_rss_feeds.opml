@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Kwabena subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="News" title="News">
+            <outline type="rss" text="The Guardian World News" title="The Guardian World News" xmlUrl="http://feeds.guardian.co.uk/theguardian/rss" htmlUrl="https://www.theguardian.com/uk"/>
+            <outline type="rss" text="BBC" title="BBC" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/front_page/rss.xml" htmlUrl="https://www.bbc.co.uk/news/"/>
+        </outline>
+        <outline text="Others" title="Others">
+            <outline type="rss" text="The Register" title="The Register" xmlUrl="http://www.theregister.co.uk/headlines.atom" htmlUrl="https://www.theregister.co.uk/"/>
+        </outline>
+        <outline text="technology" title="technology">
+            <outline type="rss" text="Omg! Ubuntu!" title="Omg! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk"/>
+            <outline type="rss" text="Engadget" title="Engadget" xmlUrl="http://www.engadget.com/rss.xml" htmlUrl="http://www.engadget.com"/>
+            <outline type="rss" text="Lifehacker" title="Lifehacker" xmlUrl="http://lifehacker.com/index.xml" htmlUrl="https://lifehacker.com"/>
+            <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch" htmlUrl="https://techcrunch.com"/>
+            <outline type="rss" text="programming" title="programming" xmlUrl="http://programming.reddit.com/.rss" htmlUrl="https://www.reddit.com/r/programming/"/>
+            <outline type="rss" text="Mashable!" title="Mashable!" xmlUrl="http://feeds2.feedburner.com/Mashable" htmlUrl="https://mashable.com/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&amp;utm_cid=Mash-Prod-RSS-Feedburner-All-Partial"/>
+            <outline type="rss" text="Destructoid" title="Destructoid" xmlUrl="http://www.destructoid.com/elephant/index.phtml?mode=atom" htmlUrl="https://www.destructoid.com/?mode=atom"/>
+            <outline type="rss" text="GigaOM" title="GigaOM" xmlUrl="http://feeds.feedburner.com/ommalik" htmlUrl="http://gigaom.com"/>
+            <outline type="rss" text="O&amp;#39;Reilly Radar" title="O&amp;#39;Reilly Radar" xmlUrl="http://feeds.feedburner.com/oreilly/radar/atom" htmlUrl="https://www.oreilly.com"/>
+            <outline type="rss" text="Kotaku" title="Kotaku" xmlUrl="http://kotaku.com/index.xml" htmlUrl="https://kotaku.com"/>
+            <outline type="rss" text="digg.com: Stories / Popular" title="digg.com: Stories / Popular" xmlUrl="http://digg.com/rss/index.xml" htmlUrl="http://digg.com/"/>
+            <outline type="rss" text="ReadWriteWeb" title="ReadWriteWeb" xmlUrl="http://www.readwriteweb.com/rss.xml" htmlUrl="https://readwrite.com"/>
+        </outline>
+        <outline text="Comics" title="Comics">
+            <outline type="rss" text="Penny Arcade" title="Penny Arcade" xmlUrl="http://www.penny-arcade.com/rss.xml" htmlUrl="http://penny-arcade.com"/>
+        </outline>
+        <outline text="Funny" title="Funny">
+            <outline type="rss" text="FAIL Blog: Epic Fail Pictures and Videos of Owned, Pwnd and Fail Moments" title="FAIL Blog: Epic Fail Pictures and Videos of Owned, Pwnd and Fail Moments" xmlUrl="http://feeds.feedburner.com/failblog" htmlUrl="https://failblog.cheezburger.com/"/>
+            <outline type="rss" text="Dilbert Daily Strip" title="Dilbert Daily Strip" xmlUrl="http://feeds.feedburner.com/DilbertDailyStrip" htmlUrl="http://dilbert.com"/>
+            <outline type="rss" text="John Cleese's Cleeseblog" title="John Cleese's Cleeseblog" xmlUrl="http://www.cleeseblog.com/feed/" htmlUrl="http://www.cleeseblog.com"/>
+            <outline type="rss" text="What If?" title="What If?" xmlUrl="http://what-if.xkcd.com/feed.atom"/>
+            <outline type="rss" text="The Oatmeal - Comics, Quizzes, &amp; Stories" title="The Oatmeal - Comics, Quizzes, &amp; Stories" xmlUrl="http://theoatmeal.com/feed/rss" htmlUrl="http://theoatmeal.com/"/>
+            <outline type="rss" text="The Daily WTF" title="The Daily WTF" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" htmlUrl="http://thedailywtf.com/"/>
+            <outline type="rss" text="Saturday Morning Breakfast Cereal" title="Saturday Morning Breakfast Cereal" xmlUrl="http://www.smbc-comics.com/rss.php" htmlUrl="https://www.smbc-comics.com/"/>
+        </outline>
+        <outline text="OSS" title="OSS">
+            <outline type="rss" text="Omg! Ubuntu!" title="Omg! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk"/>
+            <outline type="rss" text="Planet Ubuntu" title="Planet Ubuntu" xmlUrl="http://planet.ubuntu.com/rss20.xml" htmlUrl="http://planet.ubuntu.com/"/>
+            <outline type="rss" text="Slashdot" title="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/"/>
+            <outline type="rss" text="Mark Shuttleworth" title="Mark Shuttleworth" xmlUrl="http://www.markshuttleworth.com/feed/" htmlUrl="https://www.markshuttleworth.com"/>
+            <outline type="rss" text="Linux Today" title="Linux Today" xmlUrl="http://feeds.feedburner.com/linuxtoday/linux" htmlUrl="https://www.linuxtoday.com/"/>
+        </outline>
+        <outline text="Ubuntu" title="Ubuntu">
+            <outline type="rss" text="Omg! Ubuntu!" title="Omg! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk"/>
+            <outline type="rss" text="Planet Ubuntu" title="Planet Ubuntu" xmlUrl="http://planet.ubuntu.com/rss20.xml" htmlUrl="http://planet.ubuntu.com/"/>
+        </outline>
+        <outline text="Geeky Stuff" title="Geeky Stuff">
+            <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="http://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+            <outline type="rss" text="programming" title="programming" xmlUrl="http://programming.reddit.com/.rss" htmlUrl="https://www.reddit.com/r/programming/"/>
+            <outline type="rss" text="Java Code Geeks" title="Java Code Geeks" xmlUrl="http://feeds.feedburner.com/JavaCodeGeeks" htmlUrl="https://www.javacodegeeks.com"/>
+            <outline type="rss" text="Elegant Coding" title="Elegant Coding" xmlUrl="http://feeds.feedburner.com/ElegantCoding" htmlUrl="http://www.elegantcoding.com/"/>
+            <outline type="rss" text="xkcd.com" title="xkcd.com" xmlUrl="http://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"/>
+            <outline type="rss" text="PHD Comics" title="PHD Comics" xmlUrl="http://www.phdcomics.com/gradfeed.php" htmlUrl="http://www.phdcomics.com"/>
+            <outline type="rss" text="Smashing Magazine Feed" title="Smashing Magazine Feed" xmlUrl="http://rss1.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/articles/"/>
+            <outline type="rss" text="The Laravel Podcast" title="The Laravel Podcast" xmlUrl="http://www.buzzsprout.com/11908.rss" htmlUrl="http://laravel.com"/>
+        </outline>
+        <outline text="tech" title="tech">
+            <outline type="rss" text="BBC News - Technology" title="BBC News - Technology" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/technology/rss.xml" htmlUrl="https://www.bbc.co.uk/news/"/>
+            <outline type="rss" text="Mashable" title="Mashable" xmlUrl="http://feeds.mashable.com/Mashable" htmlUrl="https://mashable.com/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&amp;utm_cid=Mash-Prod-RSS-Feedburner-All-Partial"/>
+            <outline type="rss" text="The Verge -  All Posts" title="The Verge -  All Posts" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl="https://www.theverge.com/"/>
+        </outline>
+        <outline text="Thinkers" title="Thinkers">
+            <outline type="rss" text="Quotes of the Day" title="Quotes of the Day" xmlUrl="http://www.quotationspage.com/data/qotd.rss" htmlUrl="http://www.quotationspage.com/qotd.html"/>
+        </outline>
+        <outline type="rss" text="PSCI-COM List" title="PSCI-COM List" xmlUrl="https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=psci-com&amp;v=1.0" htmlUrl="https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=psci-com"/>
+    </body>
+</opml>
