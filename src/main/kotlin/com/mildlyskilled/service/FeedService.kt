@@ -6,7 +6,7 @@ import java.util.UUID
 
 class FeedService(private val feedRepository: FeedRepository) {
     suspend fun readerFeed(readerId: String) =
-        feedRepository.getUserSections(UUID.fromString(readerId))
+        feedRepository.getReaderSections(UUID.fromString(readerId))
 
     suspend fun saveFeed(readerId: String, opml: Opml): Boolean =
         feedRepository.persistFeed(UUID.fromString(readerId), opml).isNotEmpty()

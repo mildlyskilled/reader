@@ -14,10 +14,12 @@ import org.joda.time.DateTime
 import java.util.UUID
 
 class DbFeedRepository(config: DbConfiguration) : FeedRepository, JdbcRepository(config) {
-    override suspend fun getUserSections(readerId: UUID): UserFeed? =
+    override suspend fun getReaderSections(readerId: UUID): UserFeed? =
         transaction {
             Reader.findById(readerId)?.let { reader ->
-                UserFeed(name = "${reader.firstName} ${reader.lastName}" ,Section.find { SectionTable.reader eq readerId }.toList())
+                UserFeed(
+                    name = "${reader.firstName} ${reader.lastName}",
+                    Section.find { SectionTable.reader eq readerId }.toList().map { it.toOutgoingSection() })
             }
         }
 

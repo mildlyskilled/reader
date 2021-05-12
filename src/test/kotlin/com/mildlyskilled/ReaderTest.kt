@@ -1,6 +1,7 @@
 package com.mildlyskilled
 
 import com.mildlyskilled.listener.ServiceTestListener
+import com.mildlyskilled.model.incoming.ImportRequest
 import com.mildlyskilled.model.outgoing.Reader as MildlySkilledReader
 import com.mildlyskilled.model.incoming.NewReaderRequest
 import com.mildlyskilled.model.outgoing.Message
@@ -18,6 +19,7 @@ import org.http4k.core.Status.Companion.OK
 import org.http4k.format.Jackson.auto
 import org.http4k.kotest.shouldHaveBody
 import org.http4k.kotest.shouldHaveStatus
+import java.util.Base64
 import java.util.UUID
 
 class ReaderTest : ShouldSpec() {
@@ -66,6 +68,23 @@ class ReaderTest : ShouldSpec() {
 
             should("get not found if a non existent id is passed") {
                 app(Request(GET, "/feed/${UUID.randomUUID()}")) shouldHaveStatus NOT_FOUND
+            }
+
+            should("accept uploaded feeds") {
+                val sample = ReaderTest::class.java.getResource("/xml/my_rss_feeds.opml")?.readText()
+                val base64 = Base64.getEncoder().encodeToString(sample?.toByteArray())
+                val importRequest = ImportRequest(
+                    readerId = reader!!.id.toString(),
+                    payload = base64
+                )
+
+                val requestLens = Body.auto<ImportRequest>().toLens()
+                app(Request(POST, "/feed/import").body(requestLens(importRequest, Response(ACCEPTED)).bodyString())) shouldHaveStatus ACCEPTED
+            }
+
+            should("get imported feed"){
+                println(app(Request(GET, "/feed/${reader?.id}")))
+                // app(Request(GET, "/feed/${reader?.id}")) shouldHaveStatus OK
             }
         }
     }

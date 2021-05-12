@@ -1,4 +1,4 @@
-package com.mildlyskilled.route
+package com.mildlyskilled.routes
 
 import com.mildlyskilled.model.incoming.NewReaderRequest
 import com.mildlyskilled.model.outgoing.Message

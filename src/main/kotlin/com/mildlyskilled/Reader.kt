@@ -4,8 +4,8 @@ import com.mildlyskilled.model.DbConfiguration
 import com.mildlyskilled.repository.db.DbFeedRepository
 import com.mildlyskilled.repository.db.DbReaderRepository
 import com.mildlyskilled.repository.db.createDb
-import com.mildlyskilled.route.feed
-import com.mildlyskilled.route.reader
+import com.mildlyskilled.routes.feed
+import com.mildlyskilled.routes.reader
 import com.mildlyskilled.service.FeedService
 import com.mildlyskilled.service.ReaderService
 import com.typesafe.config.Config

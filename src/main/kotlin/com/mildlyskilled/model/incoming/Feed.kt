@@ -37,3 +37,8 @@ data class Item(
     val guid: Guid,
     val pubDate: String
 )
+
+data class ImportRequest(
+    val readerId: String,
+    val payload: String
+)

@@ -6,6 +6,6 @@ import java.util.UUID
 
 
 interface FeedRepository {
-    suspend fun getUserSections(readerId: UUID): UserFeed?
+    suspend fun getReaderSections(readerId: UUID): UserFeed?
     suspend fun persistFeed(readerId: UUID, opml: Opml): List<Unit?>
 }
