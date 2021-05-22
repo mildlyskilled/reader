@@ -13,18 +13,43 @@ data class Outline(
     val outline: List<Outline>?
 )
 
-data class Rss(val channel: Channel) {
+interface NewsFeed
+
+data class Rss(val channel: Channel) : NewsFeed {
     val size = channel.item.size
 }
+
+data class Author(val name: String?, val email: String?, val uri: String?)
+data class Link(val rel: String, val type: String?, val href: String)
+data class Entry(
+    val id: String,
+    val title: String,
+    val summary: String,
+    val link: Link,
+    val author: Author?,
+    val updated: String
+)
+
+data class Atom(
+    val id: String,
+    val title: String,
+    val rights: String?,
+    val icon: String?,
+    val subTitle: String?,
+    val logo: String?,
+    val updated: String,
+    val author: Author?,
+    val entry: List<Entry>
+) : NewsFeed
+
 data class Image(val url: String, val title: String, val link: String)
-data class Guid(val isPermalink: Boolean)
 data class Channel(
     val title: String,
     val description: String,
     val link: String,
     val image: Image,
     val generator: String?,
-    val lastBuildDate: String,
+    val lastBuildDate: String?,
     val language: String,
     val ttl: Int,
     val item: List<Item>
@@ -34,7 +59,6 @@ data class Item(
     val title: String,
     val description: String,
     val link: String,
-    val guid: Guid,
     val pubDate: String
 )
 

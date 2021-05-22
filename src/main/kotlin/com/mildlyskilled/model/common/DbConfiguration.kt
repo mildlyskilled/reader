@@ -1,4 +1,4 @@
-package com.mildlyskilled.model
+package com.mildlyskilled.model.common
 
 data class DbConfiguration(
     val host: String,

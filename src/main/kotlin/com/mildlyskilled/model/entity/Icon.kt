@@ -8,6 +8,7 @@ import java.util.UUID
 
 class Icon(id: EntityID<UUID>) : UUIDEntity(id) {
     companion object : UUIDEntityClass<Icon>(IconTable)
+
     var title by IconTable.title
     var link by IconTable.link
 }

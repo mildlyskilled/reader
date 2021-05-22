@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>tag:theregister.com,2005:feed/theregister.com/</id>
+  <title>The Register</title>
+  <link rel="self" type="application/atom+xml" href="https://www.theregister.com/headlines.atom"/>
+  <link rel="alternate" type="text/html" href="https://www.theregister.com/"/>
+  <rights>Copyright © 2021, Situation Publishing</rights>
+  <author>
+    <name>Team Register</name>
+    <email>webmaster@theregister.co.uk</email>
+    <uri>https://www.theregister.com/odds/about/contact/</uri>
+  </author>
+  <icon>https://www.theregister.com/Design/graphics/icons/favicon.png</icon>
+  <subtitle>Biting the hand that feeds IT — Enterprise Technology News and Analysis</subtitle>
+  <logo>https://www.theregister.com/Design/graphics/Reg_default/The_Register_r.png</logo>
+  <updated>2021-05-20T10:46:45Z</updated>
+  <entry>
+    <id>tag:theregister.com,2005:story214993</id>
+    <updated>2021-05-20T10:46:45Z</updated>
+    <author>
+      <name>Lindsay Clark</name>
+      <uri>https://search.theregister.com/?author=Lindsay%20Clark</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/20/uk_mobile_voice_data_pin/"/>
+    <title type="html">UK.gov puts feelers into tech market over £650m mobile voice and data shopping list</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Crown Commercial Service not wedded to plans until it has had a nice chat with suppliers&lt;/h4&gt; &lt;p&gt;The UK government is slapping £650m of taxpayer's money on the table to see what the ravenous tech market can offer in terms of mobile data and voice services.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214977</id>
+    <updated>2021-05-20T10:02:09Z</updated>
+    <author>
+      <name>Lindsay Clark</name>
+      <uri>https://search.theregister.com/?author=Lindsay%20Clark</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/20/graph_databases_to_map_ai/"/>
+    <title type="html">Graph databases to map AI in massive exercise in meta-understanding</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Is Gartner ahead of its time, or just bonkers? You. Be. The. Judge.&lt;/h4&gt; &lt;p&gt;Emerging from a niche in the database market, graph technology could actually be the thing to help us make sense of all the AI we're using to understand the world and our business in it, according to Gartner.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214968</id>
+    <updated>2021-05-20T09:15:13Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.com/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/20/bbc_iplayer_webassembly/"/>
+    <title type="html">Beyond video to interactive, personalised content: BBC is experimenting with rebuilding its iPlayer in WebAssembly</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Something Wasm this way comes&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;QCON&lt;/strong&gt;  The BBC is researching a rebuild of its iPlayer catch-up service client in WebAssembly.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214943</id>
+    <updated>2021-05-20T08:30:04Z</updated>
+    <author>
+      <name>Matthew Hughes</name>
+      <uri>https://search.theregister.com/?author=Matthew%20Hughes</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/20/unihertz_titan_pocket/"/>
+    <title type="html">Unihertz Titan Pocket: Like asking Mum for a BlackBerry and she tells you 'but we've got a BlackBerry at home'</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Caters to those desperate for a physical keyboard but nothing about it is intuitive&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Review&lt;/strong&gt;  The Unihertz Titan Pocket – a small ruggedised Android 11 phone with a physical QWERTY keyboard – is a bit like when you ask your mum to buy you a Big Mac meal from McDonald's and she instead makes you one at home. Sure, it might be a great burger, but it's not the same.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214992</id>
+    <updated>2021-05-20T08:02:09Z</updated>
+    <author>
+      <name>Simon Sharwood</name>
+      <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/20/ampere_arm_compliant_cores/"/>
+    <title type="html">Ampere teases ‘Arm-compliant’ homebrew cores that deprecate instructions clouds don’t need</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Altra Max revealed with smaller core counts than previously disclosed&lt;/h4&gt; &lt;p&gt;Ampere has revealed that it has developed its own “Arm-compliant” compute core that it will begin to manufacture in 2022 and hopes will eventually challenge Intel’s Xeon and AMD’s EPYC in the cloud.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214982</id>
+    <updated>2021-05-20T07:28:12Z</updated>
+    <author>
+      <name>Iain Thomson</name>
+      <uri>https://search.theregister.com/?author=Iain%20Thomson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/20/blue_origin_price/"/>
+    <title type="html">Blue Origin sets its price: $1.4m minimum for trip into space</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Expensive free fall experience plus 'astronaut' bragging rights&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Comment&lt;/strong&gt;  If you want to spend a few minutes in free fall and get a view few others have seen in person, Jeff Bezos's Blue Origin space tourism venture has set its price for just such an experience – $1.4m (£1m) or best offer.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214990</id>
+    <updated>2021-05-20T06:55:12Z</updated>
+    <author>
+      <name>Simon Sharwood</name>
+      <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/20/mac_os_arm_on_x86/"/>
+    <title type="html">BlackBerry says it’s virtualised macOS for M1 on an x86 CPU</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Tweaking QEMU to handle Apple’s XNU kernel was just the beginning&lt;/h4&gt; &lt;p&gt;BlackBerry’s Cylance unit claims it has virtualised macOS Big Sur for Apple’s own Arm-powered M1 silicon on an Intel x86 processor.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214991</id>
+    <updated>2021-05-20T06:32:19Z</updated>
+    <author>
+      <name>Laura Dobberstein</name>
+      <uri>https://search.theregister.com/?author=Laura%20Dobberstein</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/20/internet_explorer_death_day_set/"/>
+    <title type="html">Internet Explorer downgraded to 'Walking Dead' status as Microsoft sets date for demise</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;June 15th 2022 is the happy day, but Windows Server and Win 10 long-term servicing channels aren't necessarily invited&lt;/h4&gt; &lt;p&gt;As of June 15, 2022, Microsoft will retire its Internet Explorer 11 desktop application for certain versions of Windows 10.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214989</id>
+    <updated>2021-05-20T06:02:05Z</updated>
+    <author>
+      <name>Laura Dobberstein</name>
+      <uri>https://search.theregister.com/?author=Laura%20Dobberstein</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/20/new_ietf_draft_reveals_egyptians/"/>
+    <title type="html">New IETF draft reveals Egyptians invented pyramids to sharpen razor blades</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Author is tired of world+dog assuming all task force docs are definitive, wrote a really weird one to make the point anyone can put anything in 'em&lt;/h4&gt; &lt;p&gt;Warren Kumari has had it with Internet Engineering Task Force (IETF) drafts being held up as canonical statements that reveal the organisation's thinking or position, so has written his own hilarious draft to make the point that such documents are not normative.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214988</id>
+    <updated>2021-05-20T05:00:09Z</updated>
+    <author>
+      <name>Simon Sharwood</name>
+      <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/20/ibm_cloud_outage/"/>
+    <title type="html">IBM Cloud’s biggest region hit by five-hour Severity One brownout</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;When we logged in for the status report, IBM was touting $25 gift vouchers to customers brave enough to review its cloud&lt;/h4&gt; &lt;p&gt;Are you hungry? And what do you think of IBM Cloud? &lt;i&gt;The Register&lt;/i&gt; asks because Big Blue is offering US$25 gift vouchers – enough for a decent lunch – for customers that review its cloud.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214987</id>
+    <updated>2021-05-20T04:01:06Z</updated>
+    <author>
+      <name>Simon Sharwood</name>
+      <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/20/india_ponders_why_just_three/"/>
+    <title type="html">India ponders why just three per cent of its broadband services are wired</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Telcos behaving badly? Lack of subsidies? Whatever the cause, nation wants it fixed to handle flood of video&lt;/h4&gt; &lt;p&gt;India is revisiting how to stimulate more investment in wired broadband.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214985</id>
+    <updated>2021-05-20T02:57:06Z</updated>
+    <author>
+      <name>Iain Thomson</name>
+      <uri>https://search.theregister.com/?author=Iain%20Thomson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/20/epic_macos_malware/"/>
+    <title type="html">Apple's macOS is sub-par for security, Apple exec Craig Federighi tells Epic trial</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Trashing your desktop OS to save the iOS walled garden – it's a bold strategy. Let's see if it pays off for 'em&lt;/h4&gt; &lt;p&gt;Apple's software supremo Craig Federighi on Wednesday condemned the security of macOS in an astonishing attempt to defend the walled garden that is the iOS App Store.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214986</id>
+    <updated>2021-05-20T01:56:57Z</updated>
+    <author>
+      <name>Simon Sharwood</name>
+      <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/20/cisco_firepower_ssd_bug/"/>
+    <title type="html">Cisco discloses self-sabotaging SSD bug that causes rolling outages for some Firepower appliances</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Boxes stop working, admins may be locked out after 28,224 hours – and then every 1,008 hours after that&lt;/h4&gt; &lt;p&gt;Cisco has detailed a bug that causes 43 models in its Firepower security appliance range to stop passing traffic and perhaps also prevent logins to the devices’ management console.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214984</id>
+    <updated>2021-05-20T00:26:10Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.com/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/20/frontier_communications_sued_by_ftc/"/>
+    <title type="html">Frontier sued by FTC, six states for allegedly over-promising, under-delivering broadband</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;ISP denies wrongdoing, notes how difficult it is to get wires to rural areas&lt;/h4&gt; &lt;p&gt;ISP Frontier Communications was sued on Wednesday by the US Federal Trade Commission and law enforcement agencies six states for allegedly misrepresenting the speed of its internet service and for billing customers for service it didn't provide.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214983</id>
+    <updated>2021-05-19T23:26:20Z</updated>
+    <author>
+      <name>Katyanna Quach</name>
+      <uri>https://search.theregister.com/?author=Katyanna%20Quach</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/twitter_machine_learning_image_cropping/"/>
+    <title type="html">Twitter: Our AI image-cropping algorithm is biased toward White people, women</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;And that's why we've let humans take back control&lt;/h4&gt; &lt;p&gt;Twitter said its AI-powered image-cropping algorithm is slightly biased in favor of White people and women after all, and has taken steps to ditch its reliance on the machine-learning code.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214981</id>
+    <updated>2021-05-19T21:50:10Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.com/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/freenode_staff_resigns/"/>
+    <title type="html">Freenode IRC staff resign en masse, unhappy about new management</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Crown Prince and network boss Andrew Lee disputes claims made by those leaving the internet chat community&lt;/h4&gt; &lt;p&gt;Most of the volunteer staff of Freenode, an internet relay chat (IRC) network dating back to 1995, have resigned in protest over what they describe as a hostile takeover of the chat service.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214980</id>
+    <updated>2021-05-19T20:58:12Z</updated>
+    <author>
+      <name>Katyanna Quach</name>
+      <uri>https://search.theregister.com/?author=Katyanna%20Quach</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/qualcomm_snapdragon_778g_5g_launch/"/>
+    <title type="html">Qualcomm promises 5G 6nm Snapdragon 778G chip in mid-range phones by summer</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Honor, iQOO,OPPO, Realme, Xiaomi, Motorola onboard so far&lt;/h4&gt; &lt;p&gt;Qualcomm announced its Snapdragon 778G 5G system-on-chip for next generation mid-to-high-end smartphones at its annual 5G Summit, which kicked off on Wednesday.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214939</id>
+    <updated>2021-05-19T20:00:10Z</updated>
+    <author>
+      <name>David Gordon</name>
+      <uri>https://search.theregister.com/?author=David%20Gordon</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/rethink_your_data_protection_strategy/"/>
+    <title type="html">You sent your data to the cloud. Do you know where it is now?</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Time to rethink your data protection strategy&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Webcast&lt;/strong&gt;  We don’t think anyone goes out of their way not to protect their data. But if you’ve embraced the cloud without taking a long hard look at your data protection and recovery policies, you could be doing just that.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214978</id>
+    <updated>2021-05-19T18:48:07Z</updated>
+    <author>
+      <name>Matthew Hughes</name>
+      <uri>https://search.theregister.com/?author=Matthew%20Hughes</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/apple_epic_trial_latest/"/>
+    <title type="html">Apple seeks to junk claim that iOS is an 'essential facility' in legal spat with Epic Games</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Fortnite maker 'has no factual, expert, or legal support for its theory'&lt;/h4&gt; &lt;p&gt;Apple is seeking to dismiss one of the fundamental claims in its long-running legal spat with Epic Games.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214979</id>
+    <updated>2021-05-19T17:49:08Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.com/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/salesforce_root_cause/"/>
+    <title type="html">That Salesforce outage: Global DNS downfall started by one engineer trying a quick fix</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;'We feel bad about what happened'&lt;/h4&gt; &lt;p&gt;The sound of rumbling rubber could be heard today as Salesforce threw an engineer responsible for a change that knocked it offline under a passing bus.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214974</id>
+    <updated>2021-05-19T17:13:06Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.com/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/aws_introduces_app_runner_google/"/>
+    <title type="html">AWS App Runner: Fast path from GitHub to deployed application, but limited features in first release</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Google Cloud Run envy?&lt;/h4&gt; &lt;p&gt;AWS has introduced App Runner, with immediate general availability, for quick deployment of container-based applications.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214976</id>
+    <updated>2021-05-19T16:09:41Z</updated>
+    <author>
+      <name>Gareth Corfield</name>
+      <uri>https://search.theregister.com/?author=Gareth%20Corfield</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/post_office_horizon_scandal_public_inquiry_announced/"/>
+    <title type="html">Parliament demands to know the score with Fujitsu as Post Office Horizon scandal gets inquiry with legal teeth</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;'Government's got to take responsibility for this,' rages opposition MP&lt;/h4&gt; &lt;p&gt;A statutory public inquiry will be held into the Post Office Horizon scandal, the UK government said today – and MPs want to know why Fujitsu has largely been out of the limelight in the case so far.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214975</id>
+    <updated>2021-05-19T15:20:12Z</updated>
+    <author>
+      <name>Matthew Hughes</name>
+      <uri>https://search.theregister.com/?author=Matthew%20Hughes</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/android_12_beta/"/>
+    <title type="html">Android 12 beta lands bringing better personalisation, speed upgrades, and some privacy tools borrowed from iOS 14</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Google Pixel phone not required&lt;/h4&gt; &lt;p&gt;Google has flicked "publish" on &lt;a target="_blank" href="https://blog.google/products/android/android-12-beta"&gt;its Android 12 beta&lt;/a&gt;, with the bleeding-edge OS winging its way to enrolled devices.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214973</id>
+    <updated>2021-05-19T14:35:05Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.com/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/china_mars/"/>
+    <title type="html">Pics or it didn't happen: First images from China's Mars rover suggest nothing has gone Zhurong just yet</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Probe's cams show red planet's surface while clips capture descent&lt;/h4&gt; &lt;p&gt;The China National Space Administration (CNSA) &lt;a target="_blank" rel="nofollow" href="http://www.cnsa.gov.cn/n6759533/c6812021/content.html"&gt;has released images and video&lt;/a&gt; snapped during the landing process and checkout of its Zhurong Mars rover.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214970</id>
+    <updated>2021-05-19T13:47:12Z</updated>
+    <author>
+      <name>Matthew Hughes</name>
+      <uri>https://search.theregister.com/?author=Matthew%20Hughes</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/honor_magicbook_14_15/"/>
+    <title type="html">To what do we owe the Honor? Huawei spinout breaks silence with two pro ultraportables</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;New MagicBook 14 and 15 include 11th-gen Intel chippery, Xe graphics&lt;/h4&gt; &lt;p&gt;&lt;i&gt;The Reg&lt;/i&gt; hasn't heard much from Honor since it &lt;a target="_blank" href="https://www.theregister.com/2020/11/17/huawei_sells_lowend_honor_handset_unit/"&gt;broke away from parent company Huawei last November&lt;/a&gt;. Save for a fitness band here, or a China-exclusive phone there, it's been rather quiet on the Western Front.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214972</id>
+    <updated>2021-05-19T13:02:11Z</updated>
+    <author>
+      <name>Gareth Corfield</name>
+      <uri>https://search.theregister.com/?author=Gareth%20Corfield</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/hafnium_scans_5_mins_post_disclosure/"/>
+    <title type="html">Miscreants started scanning for Exchange Hafnium vulns five minutes after Microsoft told world about zero-days</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Being slow to patch just means you'll get pwned faster&lt;/h4&gt; &lt;p&gt;Attackers began scanning for vulnerabilities just five minutes after Microsoft announced there were four zero-days in Exchange Server, according to Palo Alto Networks.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214971</id>
+    <updated>2021-05-19T12:15:08Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.com/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/gitlab_crypto/"/>
+    <title type="html">GitLab tries to address crypto-mining abuse by requiring card details for free stuff</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Tweak only affects shared runners and new users signed up after 17 May&lt;/h4&gt; &lt;p&gt;In a bid to tackle cryptocurrency miners slurping free pipeline minutes, GitLab will expect users to &lt;a target="_blank" rel="nofollow" href="https://about.gitlab.com/blog/2021/05/17/prevent-crypto-mining-abuse/"&gt;provide a valid credit or debit card number&lt;/a&gt; to use shared runners on its platform.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214969</id>
+    <updated>2021-05-19T11:34:07Z</updated>
+    <author>
+      <name>Lindsay Clark</name>
+      <uri>https://search.theregister.com/?author=Lindsay%20Clark</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/multicloud_for_data_gartner/"/>
+    <title type="html">Keeping track of one cloud provider's data products is a 'full-time job' so forget mixing and matching, says Gartner</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Multi-cloud for data is too complicated&lt;/h4&gt; &lt;p&gt;Analyst house Gartner has warned users not to mix and match data management products from the three largest cloud hyperscalers.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214945</id>
+    <updated>2021-05-19T10:47:07Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.com/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/faster_python_mark_shannon_author/"/>
+    <title type="html">Faster Python: Mark Shannon, author of newly endorsed plan, speaks to &lt;i&gt;The Register&lt;/i&gt;</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;The biggest challenge? 'Backwards compatibility of features that we might not even know we have'&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Interview&lt;/strong&gt;  Python creator Guido van Rossum last week introduced a project to make CPython, the official implementation, five times faster in four years. Now Mark Shannon – one of the three initial members of the project – has opened up about the why and the how.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214953</id>
+    <updated>2021-05-19T10:01:11Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.com/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/azure_key_vault/"/>
+    <title type="html">Uptime funk: Microsoft has lifted availability of Azure Key Vault to 99.99%</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;But beware the SLA: Just how much would an outage actually cost you?&lt;/h4&gt; &lt;p&gt;Microsoft has &lt;a target="_blank" rel="nofollow" href="https://azure.microsoft.com/en-us/updates/9999-uptime-for-azure-key-vault/"&gt;added another 9 to its availability guarantee for Azure Key Vault&lt;/a&gt;, taking the service to 99.99 per cent availability.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214951</id>
+    <updated>2021-05-19T09:12:11Z</updated>
+    <author>
+      <name>Matthew Hughes</name>
+      <uri>https://search.theregister.com/?author=Matthew%20Hughes</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/ifixit_samsung_upcyling/"/>
+    <title type="html">iFixit slams Samsung's phone 'upcycling' scheme for falling short of what was promised</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Dude, where's my unlocked bootloader?&lt;/h4&gt; &lt;p&gt;It's a sad, pointless, and frankly wasteful cycle. You buy a phone. Two years later, you buy another. The old phone goes into a drawer, where it sits until you eventually get around to recycling it.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214950</id>
+    <updated>2021-05-19T08:28:08Z</updated>
+    <author>
+      <name>Paul Kunert</name>
+      <uri>https://search.theregister.com/?author=Paul%20Kunert</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/ico_tested_me_fine/"/>
+    <title type="html">UK data watchdog fines 'pandemic partner' biz £8k: It sent 84,000 marketing emails to people who'd given info for track and trace</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Tested.me Ltd broke the PECR, says Information Commissioner's Office&lt;/h4&gt; &lt;p&gt;The UK's data watchdog has fined a company £8,000 for sending 84,000 direct marketing emails without consent to people who had provided their personal data for contact tracing purposes.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214967</id>
+    <updated>2021-05-19T07:58:11Z</updated>
+    <author>
+      <name>Laura Dobberstein</name>
+      <uri>https://search.theregister.com/?author=Laura%20Dobberstein</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/woof_woof_whos_a_good/"/>
+    <title type="html">Australian Federal Police hiring digital evidence retrieval specialists: Being a very good boy and paws required</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Hounds can sniff out SIM cards that a human might miss&lt;/h4&gt; &lt;p&gt;Australia's Federal Police (AFP) is getting more help from some very good boys with four paws, wagging tails, and the ability to sniff out tech equipment with their highly sensitive noses.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214966</id>
+    <updated>2021-05-19T07:28:10Z</updated>
+    <author>
+      <name>Simon Sharwood</name>
+      <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/yahoo_japan_ai_comment_moderation/"/>
+    <title type="html">Yahoo&lt;i&gt;!&lt;/i&gt; Japan&lt;i&gt;!&lt;/i&gt; offers&lt;i&gt;!&lt;/i&gt; free&lt;i&gt;!&lt;/i&gt; comment&lt;i&gt;!&lt;/i&gt;-moderation&lt;i&gt;!&lt;/i&gt;-as&lt;i&gt;!&lt;/i&gt;-a&lt;i&gt;!&lt;/i&gt;-service&lt;i&gt;!&lt;/i&gt; API&lt;i&gt;!&lt;/i&gt;</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;'Constructive comment ranking model' can detect bias, promote respectful contributions, already zaps 20,000 posts a day&lt;/h4&gt; &lt;p&gt;Yahoo&lt;i&gt;!&lt;/i&gt; Japan has flicked the switch on an AI-driven comment-moderation-as-a-service API.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214958</id>
+    <updated>2021-05-19T07:02:04Z</updated>
+    <author>
+      <name>Katyanna Quach</name>
+      <uri>https://search.theregister.com/?author=Katyanna%20Quach</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/chrome_extension_microsoft_authenticator_fake/"/>
+    <title type="html">The Microsoft Authenticator extension in the Chrome store wasn't actually made by Microsoft. Oops, Google</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Guess they'll let anyone in here&lt;/h4&gt; &lt;p&gt;The trustworthiness of Google's Chrome Store was again called into question after an extension billing itself as Microsoft Authenticator was published by the software souk without the simplest of checks.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214965</id>
+    <updated>2021-05-19T05:58:11Z</updated>
+    <author>
+      <name>Simon Sharwood</name>
+      <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/ampere_altra_max_specs_revealed/"/>
+    <title type="html">Glimpse of 3GHz 128-core Ampere Altra Max server processor emerges as Oracle teases more cloudy Arms</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Even World of Warcraft is getting on the RISC-y bandwagon&lt;/h4&gt; &lt;p&gt;Oracle has teased a further tie-up with Arm server processor aspirant Ampere Computing, perhaps around the latter's upcoming Altra Max silicon that comes in 10 variants packing up to 128 CPU cores and running at speeds between 2.4 and 3GHz.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214964</id>
+    <updated>2021-05-19T04:59:07Z</updated>
+    <author>
+      <name>Laura Dobberstein</name>
+      <uri>https://search.theregister.com/?author=Laura%20Dobberstein</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/new_zealand_hospitals_taken_down/"/>
+    <title type="html">New Zealand hospitals infected by ransomware, cancel some surgeries</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Intrusion believed to have entered through email&lt;/h4&gt; &lt;p&gt;New Zealand's Waikato District Health Board (DHB) has been hit with a strain of ransomware that took down most IT services Tuesday morning and drastically reduced services at six of its affiliate hospitals.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214963</id>
+    <updated>2021-05-19T03:58:08Z</updated>
+    <author>
+      <name>Simon Sharwood</name>
+      <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/google_samsung_merge_wearable_oses/"/>
+    <title type="html">Google and Samsung merge their wearable OSes, tease Fitbit baked into the combo</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Who could possibly have predicted that developers would shun two small ecosystems?&lt;/h4&gt; &lt;p&gt;Samsung and Google have decided to combine their wearable operating system efforts in what looks like an admission that developers don't care about either.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214961</id>
+    <updated>2021-05-19T02:40:14Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.com/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/google_io_privacy/"/>
+    <title type="html">More power to web apps, cries Google, and more privacy, too</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Without harming the ad business, natch&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Google IO&lt;/strong&gt;  At &lt;a target="_blank" href="https://www.theregister.com/2021/05/18/google_io_2021/"&gt;Google IO&lt;/a&gt; 2021 on Tuesday, the ad giant reiterated its web privacy commitments and talked up technologies aimed at narrowing the performance gap between web apps and their native counterparts.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214962</id>
+    <updated>2021-05-19T01:17:46Z</updated>
+    <author>
+      <name>Simon Sharwood</name>
+      <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/china_cryptocurrency_crackdown/"/>
+    <title type="html">China all but bans cryptocurrencies</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Banks told not to transact, web platforms blocked from hosting or advertising, citizens told to look elsewhere for investments&lt;/h4&gt; &lt;p&gt;Beijing has all but banned cryptocurrencies.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214960</id>
+    <updated>2021-05-19T00:14:14Z</updated>
+    <author>
+      <name>Iain Thomson</name>
+      <uri>https://search.theregister.com/?author=Iain%20Thomson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/19/windows_10x_canceled/"/>
+    <title type="html">Microsoft hits Alt-F4 on Windows 10X: OS designed for dual-screen PCs axed</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;It was just so good, we're cannibalizing it for parts, says Redmond&lt;/h4&gt; &lt;p&gt;Microsoft has confirmed that Windows 10X, its somewhat streamlined operating system initially designed for a new wave of dual-screen mobile PCs, is being killed off.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214957</id>
+    <updated>2021-05-18T21:40:12Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.com/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/18/google_io_2021/"/>
+    <title type="html">What you need to know from today's Google IO: Chatty AI, collab tools, TPU v4 chips, quantum computing</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Great, another tech thing that sounds like 'lambda'&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Google IO&lt;/strong&gt;  Google today opened its developer conference, the aptly named Google IO, with a somber nod to the ongoing COVID-19 pandemic from Alphabet CEO Sundar Pichai.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214955</id>
+    <updated>2021-05-18T20:59:02Z</updated>
+    <author>
+      <name>Katyanna Quach</name>
+      <uri>https://search.theregister.com/?author=Katyanna%20Quach</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/18/nvidia_ethereum_rtx_gpus/"/>
+    <title type="html">Nvidia nerfs RTX 3080, 3070, 3060 Ti GPUs to shoo away Ethereum miners</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Hash rate halved for 'LHR' cards in fresh bid to force down outrageous retail prices&lt;/h4&gt; &lt;p&gt;Nvidia says it will slash the cryptocurrency-mining abilities of newly made RTX 3080, RTX 3070, and RTX 3060 Ti graphics cards.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214954</id>
+    <updated>2021-05-18T19:09:03Z</updated>
+    <author>
+      <name>Gareth Corfield</name>
+      <uri>https://search.theregister.com/?author=Gareth%20Corfield</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/18/colonial_pipeline_server_outage/"/>
+    <title type="html">Colonial Pipeline suffers server gremlins, says it's not due to another ransomware infection</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Just dealing with the aftermath&lt;/h4&gt; &lt;p&gt;The Colonial Pipeline is in a bit of trouble again. The oil conduit that shut down this month after its operators were hit with ransomware suffered glitches with its technology on Tuesday while trying to sort out its IT woes.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214952</id>
+    <updated>2021-05-18T17:42:17Z</updated>
+    <author>
+      <name>Gareth Corfield</name>
+      <uri>https://search.theregister.com/?author=Gareth%20Corfield</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/18/russian_spymaster_solarwinds/"/>
+    <title type="html">Us? Pwn SolarWinds? With our reputation? Russian spy chief makes laughable denial of supply chain attack</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Hint: He doesn't care if you personally think it's rubbish, and here's why&lt;/h4&gt; &lt;p&gt;A Russian spymaster has denied that his agency carried out the infamous SolarWinds supply chain attack in a public relations move worthy of the &lt;a target="_blank" href="https://www.theregister.com/2020/08/06/china_russia_disinformation_black_hat/"&gt;Internet Research Agency&lt;/a&gt;.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214949</id>
+    <updated>2021-05-18T17:01:11Z</updated>
+    <author>
+      <name>Lindsay Clark</name>
+      <uri>https://search.theregister.com/?author=Lindsay%20Clark</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/18/microstrategy_bitcoin/"/>
+    <title type="html">Business-intelligence-company-turned-Bitcoin-addict MicroStrategy grabs another $10m crypto-coin fix</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Who's recommending investment? The man who already has a $1bn stake&lt;/h4&gt; &lt;p&gt;Wikipedia says MicroStrategy &lt;a target="_blank" href="https://en.wikipedia.org/wiki/MicroStrategy"&gt;is a company&lt;/a&gt; that provides business intelligence (BI), mobile software, and cloud-based services, but that wouldn't be the first outdated information on the crowdsourced knowledge repository.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214948</id>
+    <updated>2021-05-18T15:56:10Z</updated>
+    <author>
+      <name>Matthew Hughes</name>
+      <uri>https://search.theregister.com/?author=Matthew%20Hughes</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/18/apple_phil_schiller_epic_trial/"/>
+    <title type="html">Ex-Apple marketing bigwig tells Epic judge: Our revenue-sharing model is designed to stop money laundering</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Oh, and remember when Tim Sweeney himself demonstrated Metal API? Awks&lt;/h4&gt; &lt;p&gt;Three weeks have passed since &lt;a target="_blank" href="https://www.theregister.com/2021/05/04/apple_vs_epic_trial/"&gt;the high-stakes California bench trial between Epic Games and Apple commenced&lt;/a&gt;. On Monday, it was the turn of Phil Schiller, Apple Fellow and former senior VP of Worldwide Marketing, to take the stand.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214944</id>
+    <updated>2021-05-18T15:03:13Z</updated>
+    <author>
+      <name>Gareth Corfield</name>
+      <uri>https://search.theregister.com/?author=Gareth%20Corfield</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/18/ukgov_cybersecurity_reviews_supply_chain_cma/"/>
+    <title type="html">The UK loves cybersecurity so much, it's going to regulate managed service providers' infosec practices in law</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;And you're invited to speak your brains on Computer Misuse Act changes&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;+Comment&lt;/strong&gt;  The British government has vowed to create a legally binding cybersecurity framework for managed service providers (MSPs) – and if you want to tell gov.UK what you think, you've only got a few weeks to act.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214946</id>
+    <updated>2021-05-18T14:15:07Z</updated>
+    <author>
+      <name>Lindsay Clark</name>
+      <uri>https://search.theregister.com/?author=Lindsay%20Clark</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/18/planetscale_promises_vitess_dbaas/"/>
+    <title type="html">PlanetScale grabs YouTube-developed open-source tech, promises Vitess DBaaS with on-the-fly schema changes</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Demand growing for scale-y transactional monster, say analysts&lt;/h4&gt; &lt;p&gt;YouTube-developed distributed relational database Vitess is getting a DBaaS makeover, putting it in the hands of developers without having to worry about engaging with a DBA.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story214942</id>
+    <updated>2021-05-18T13:30:11Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.com/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2021/05/18/1password/"/>
+    <title type="html">1Password unsheathes Rusty key, hopes to unlock Linux Desktop world</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Tries to tempt penguins with Ring Crypto&lt;/h4&gt; &lt;p&gt;1Password has unveiled a full-featured desktop app for Linux, written in Rust and using the ring crypto library for end-to-end encryption.…&lt;/p&gt;</summary>
+  </entry>
+</feed>

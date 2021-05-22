@@ -1,6 +1,6 @@
 package com.mildlyskilled.repository.db
 
-import com.mildlyskilled.model.DbConfiguration
+import com.mildlyskilled.model.common.DbConfiguration
 import com.zaxxer.hikari.HikariConfig
 import com.zaxxer.hikari.HikariDataSource
 import org.jetbrains.exposed.sql.Database

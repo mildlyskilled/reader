@@ -6,11 +6,11 @@
     </head>
     <body>
         <outline text="News" title="News">
-            <outline type="rss" text="The Guardian World News" title="The Guardian World News" xmlUrl="http://feeds.guardian.co.uk/theguardian/rss" htmlUrl="https://www.theguardian.com/uk"/>
-            <outline type="rss" text="BBC" title="BBC" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/front_page/rss.xml" htmlUrl="https://www.bbc.co.uk/news/"/>
+            <outline type="rss" text="The Guardian World News" title="The Guardian World News" xmlUrl="http://localhost/theguardian/rss" htmlUrl="https://www.theguardian.com/uk"/>
+            <outline type="rss" text="BBC" title="BBC" xmlUrl="http://localhost/bbc/rss" htmlUrl="https://www.bbc.co.uk/news/"/>
         </outline>
         <outline text="Others" title="Others">
-            <outline type="rss" text="The Register" title="The Register" xmlUrl="http://www.theregister.co.uk/headlines.atom" htmlUrl="https://www.theregister.co.uk/"/>
+            <outline type="atom" text="The Register" title="The Register" xmlUrl="http://www.theregister.co.uk/headlines.atom" htmlUrl="https://www.theregister.co.uk/"/>
         </outline>
         <outline text="technology" title="technology">
             <outline type="rss" text="Omg! Ubuntu!" title="Omg! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk"/>

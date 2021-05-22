@@ -1,20 +1,19 @@
 package com.mildlyskilled.model.outgoing
 
-import org.joda.time.DateTime
 import java.util.UUID
 
-
-data class Guid(val isPermalink: Boolean)
 
 data class NewsItem(
     val title: String,
     val description: String,
     val link: String,
-    val guid: Guid,
-    val pubDate: String
+    val pubDate: String,
+    val section: UUID,
+    val readAt: String?
 )
 
 data class Feed(
+    val id: UUID,
     val name: String,
     val title: String,
     val type: String,
@@ -24,6 +23,7 @@ data class Feed(
 )
 
 data class Section(
+    val id: UUID,
     val name: String,
     val title: String,
     val owner: UUID,

@@ -60,13 +60,13 @@
         </encoder>
     </appender>
     <root level="INFO">
-        <appender-ref ref="ASYNC_LOGFILE" />
+        <appender-ref ref="ASYNC_LOGFILE"/>
     </root>
     <logger name="org.bitcoinj" level="INFO" additivity="false">
         <appender-ref ref="BLOCKCHAIN-FILE"/>
     </logger>
     <logger level="DEBUG" additivity="false">
-        <appender-ref ref="ANALYTICS-FILE" />
+        <appender-ref ref="ANALYTICS-FILE"/>
     </logger>
     <logger name="org.eclipse.jetty" level="INFO"/>
     <logger name="io.netty" level="INFO"/>

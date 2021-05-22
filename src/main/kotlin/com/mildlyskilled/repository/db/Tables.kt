@@ -14,7 +14,7 @@ object ReaderTable : UUIDTable("READER") {
     val firstName = varchar("FIRST_NAME", length = 50)
     val lastName = varchar("LAST_NAME", length = 50)
     val email = varchar("EMAIL", length = 256).uniqueIndex()
-    val password = varchar("PASSWORD", length = 256)
+    val password = text("PASSWORD")
     val created = datetime("CREATED_AT")
     val updated = datetime("UPDATED_AT").nullable()
     val deleted = datetime("DELETED_AT").nullable()
@@ -51,10 +51,8 @@ object NewsTable : UUIDTable("NEWS") {
     val title = text("NEWS_TITLE")
     val description = text("NEWS_DESCRIPTION")
     val link = text("LINK")
-    val guid = text("GUID")
-    val isPermalink = bool("IS_PERMALINK")
-    val publishedAt = datetime("PUBLISHED_AT")
-    val readAt = datetime("READ_AT")
+    val publishedAt = varchar("PUBLISHED_AT", length = 50)
+    val readAt = varchar("READ_AT", length = 50).nullable()
     val feed = reference("FEED", FeedTable)
 }
 

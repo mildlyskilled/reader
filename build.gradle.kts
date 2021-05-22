@@ -8,6 +8,9 @@ buildscript {
 
 repositories {
     mavenCentral()
+    maven {
+        url = uri("https://oss.sonatype.org/content/repositories/snapshots")
+    }
 }
 
 group = "com.mildlyskilled.reader"
@@ -27,6 +30,11 @@ val junitVersion: String by project
 val config4kVersion: String by project
 val kotlinJunit: String by project
 val jacksonDataTypeJoda: String by project
+val auth0Version: String by project
+val scryptVersion: String by project
+val muLoggingVersion: String by project
+val arrowVersion: String by project
+val kotlinReflect: String by project
 
 plugins {
     application
@@ -35,9 +43,11 @@ plugins {
 
 dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlinVersion")
+    implementation("org.jetbrains.kotlin:kotlin-reflect:$kotlinReflect")
     implementation("org.http4k:http4k-core:$http4kVersion")
     implementation("org.http4k:http4k-format-jackson-xml:$http4kVersion")
     implementation("org.http4k:http4k-format-kotlinx-serialization:$http4kVersion")
+    implementation("org.http4k:http4k-client-okhttp:$http4kVersion")
     implementation("org.jetbrains.exposed:exposed-core:$exposedVersion")
     implementation("org.jetbrains.exposed:exposed-jdbc:$exposedVersion")
     implementation("org.jetbrains.exposed:exposed-dao:$exposedVersion")
@@ -45,14 +55,17 @@ dependencies {
     implementation("org.postgresql:postgresql:$postgresqlVersion")
     implementation("com.zaxxer:HikariCP:$hikariCpVersion")
     implementation("io.github.config4k:config4k:$config4kVersion")
+    implementation("com.auth0:java-jwt:$auth0Version")
+    implementation("com.lambdaworks:scrypt:$scryptVersion")
+    implementation("io.github.microutils:kotlin-logging-jvm:$muLoggingVersion")
+    implementation("io.arrow-kt:arrow-core:$arrowVersion")
 
     testImplementation("com.h2database:h2:$h2Version")
-    testImplementation("org.http4k:http4k-testing-approval:$http4kVersion")
-    testImplementation("org.http4k:http4k-testing-hamkrest:$http4kVersion")
-    testImplementation("org.http4k:http4k-testing-kotest:$http4kVersion")
     testImplementation("org.junit.jupiter:junit-jupiter-api:$junitVersion")
     testImplementation("org.junit.jupiter:junit-jupiter-engine:$junitVersion")
-    testImplementation("io.kotlintest:kotlintest-runner-junit5:$kotlinJunit")
+    testImplementation("io.kotest:kotest-runner-junit5:$kotlinJunit")
+    testImplementation("io.kotest:kotest-assertions-core:$kotlinJunit")
+
 }
 
 tasks {
@@ -62,7 +75,7 @@ tasks {
         }
     }
 
-    test {
+    withType<Test> {
         useJUnitPlatform()
         maxParallelForks = 1
         jvmArgs = listOf("-Dlogback.configurationFile=resources/logback.local.xml")
